@@ -1,0 +1,15 @@
+C:\Example C#\HomeWorkLesson4\Tasck25\bin\Debug\net6.0\Tasck25.exe
+C:\Example C#\HomeWorkLesson4\Tasck25\bin\Debug\net6.0\Tasck25.deps.json
+C:\Example C#\HomeWorkLesson4\Tasck25\bin\Debug\net6.0\Tasck25.runtimeconfig.json
+C:\Example C#\HomeWorkLesson4\Tasck25\bin\Debug\net6.0\Tasck25.dll
+C:\Example C#\HomeWorkLesson4\Tasck25\bin\Debug\net6.0\Tasck25.pdb
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\Tasck25.csproj.AssemblyReference.cache
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\Tasck25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\Tasck25.AssemblyInfoInputs.cache
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\Tasck25.AssemblyInfo.cs
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\Tasck25.csproj.CoreCompileInputs.cache
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\Tasck25.dll
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\refint\Tasck25.dll
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\Tasck25.pdb
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\Tasck25.genruntimeconfig.cache
+C:\Example C#\HomeWorkLesson4\Tasck25\obj\Debug\net6.0\ref\Tasck25.dll
